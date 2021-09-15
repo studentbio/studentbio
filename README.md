@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @studentbio
-- 👀 I’m interested in molecular biology, bioinformatics, commercial applications, C#, R 
-- 🌱 I’m currently learning R
+- 👀 I’m interested in molecular biology, bioinformatics, commercial applications, C#, R, machine learning, neuronal networks 
+- 🌱 I’m currently learning C# and neuronal networks
 - 💞️ I’m looking to collaborate on gene expression analysis, other projects
 - 📫 How to reach me ...
 
